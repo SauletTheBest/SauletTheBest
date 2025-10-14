@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saulet OR aquiver</h1>
+<h1 align="center">~$ whoami
+Hello, World! I am </h1>
 <h3 align="center">About me?</h3>
 
 <h3 align="left">Connect with me:</h3>
