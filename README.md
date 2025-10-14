@@ -1,7 +1,1 @@
-- Hi, I’m @SauletTheBest
-- I’m interested in backend development, frontend development, microservices architecture, and building scalable applications.
-- I'm currently learning and experimenting with Go and the principles of microservices. I'm also exploring different approaches to backend development.
-- I'm open to collaborate on backend projects that offer opportunities for learning and growth across different technologies. I'm also interested in contributing to open source projects as a way to gain practical experience and see how different systems are built.
-- How to reach me - 📧 sauletkabdrakhmanov@gmail.com
-- Pronouns: He/Him
-- Fun fact: I recently became incredibly curious about how software works, which led me to the captivating world of programming.
+- Hi, I’m @aquiver
