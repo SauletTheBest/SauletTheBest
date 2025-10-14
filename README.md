@@ -1,11 +1,16 @@
 <h1 align="center">
-```bash
+  <pre>
 ~$ whoami
-I am Saulet OR aquiver
+// System login: Saulet OR aquiver
+// Status: Connected. Awaiting next command... 🌌
+  </pre>
+</h1>
 
 ---
 
-<h3 align="center">About me?</h3>
+<h3 align="center">
+  // <kbd> About me </kbd> //
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
