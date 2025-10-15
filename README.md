@@ -82,7 +82,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" width="40" height="40"/> 
+    <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="swagger" width="40" height="40"/> 
   </a>
  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-actions-icon.svg" alt="github actions" width="40" height="40"/> 
