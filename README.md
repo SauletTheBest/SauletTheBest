@@ -85,7 +85,7 @@
     <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="swagger" width="40" height="40"/> 
   </a>
  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-actions-icon.svg" alt="github actions" width="40" height="40"/> 
+    <img src="https://fontawesome.com/icons/github?f=brands&s=solid" alt="github actions" width="40" height="40"/> 
   </a>
 </p>
 
