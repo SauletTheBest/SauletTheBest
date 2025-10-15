@@ -38,7 +38,7 @@
 </a>
 </p>
 
-<h3> Tools </h3>
+<h3> Tools: </h3>
 
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -58,7 +58,7 @@
 </a>
 </p>
 
-<h3>Database</h3>
+<h3>Database:</h3>
 
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -69,7 +69,7 @@
 </a>
 </p>
 
-<h3>Additional</h3>
+<h3>Additional:</h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -89,7 +89,7 @@
 </a>
 </p>
 
-<h3>Interests</h3>
+<h3>Interests:</h3>
 
 <p align="left">
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
