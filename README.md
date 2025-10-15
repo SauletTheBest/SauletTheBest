@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/sauletkabdrakhmanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sauletkabdrakhmanov" height="30" width="40" /></a>
 </p>
 
-Бэкенд и Основные Языки
+<h3>Language</h3>
 
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -41,7 +41,7 @@
 </a>
 </p>
 
-Системы и Среда (Ambient Linux)
+<h3> Tools </h3>
 
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
 </a>
 </p>
 
-Базы Данных (Глубина Хранения)
+<h3>Database</h3>
 
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -72,7 +72,7 @@
 </a>
 </p>
 
-Дополнительные Инструменты (Фронтенд и Хобби)
+<h3>Additional tools</h3>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
