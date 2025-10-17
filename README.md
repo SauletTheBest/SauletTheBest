@@ -23,6 +23,8 @@
 ```
 
 ---
+<h1 align="center">About me:</h1>
+<h3>Currently interested in Backend development methods and tools.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
