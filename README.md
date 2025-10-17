@@ -25,7 +25,7 @@
 ---
 <h1 align="left">About me:</h1>
 ```text
-<h3>Currently interested in Backend development methods and tools.</h3>
+Currently interested in Backend development methods and tools.
 ```
 
 <h3 align="left">Connect with me:</h3>
