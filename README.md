@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="codinggirl.gif" width="80%" alt="Coding Girl">
+  <img src="image/codinggirl.gif" width="80%" alt="Coding Girl">
 </p>   
 
 ---
