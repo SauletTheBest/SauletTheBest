@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/wind.gif" width="60%" alt="Coding Girl">
+  <img src="image/wind.gif" width="70%" alt="Gif">
 </p>   
 
 ---
